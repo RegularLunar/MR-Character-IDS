@@ -110,7 +110,6 @@
 
 ### Character ID List
 
-/_Character ID list_/
 
 - **1011**: Hulk
 - **1014**: The Punisher
