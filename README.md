@@ -151,3 +151,5 @@
 - **1051**: The Thing
 - **1052**: Iron Fist
 - **4017**: Galacta
+
+# CREDITS @bruhlookatthis ON DISCORD
