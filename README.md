@@ -55,12 +55,12 @@
 
 5. **Edit Textures**
 
-   - Edit the `.png` file in an image editor like Photoshop, maintaining original dimensions. Save your edits as `.png`.
+   - Edit the `.png` file in an image editor like [Photoshop](https://www.adobe.com/products/photoshop.html), [Paint.net](https://www.getpaint.net/download.html), [Photopea](https://www.photopea.com), etc. maintaining original dimensions. Save your edits as `.png`.
 
 6. **Reimport Textures**
 
    - Install Unreal Engine 5.3.2 from the [Epic Installer](https://www.unrealengine.com/en-US/download).
-   - Create a new project named `Marvel`.
+   - Create a new project named `Marvel`. (Click Games tab, select Blank, uncheck Starter Content)
    - Recreate the original folder path (e.g., `Marvel\Characters\1031\1031001\Texture\`) and import your modified `.png` files.
 
 7. **Pack Textures**
