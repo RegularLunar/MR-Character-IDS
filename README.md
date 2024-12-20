@@ -15,6 +15,16 @@
 
 ---
 
+## Important
+
+- Sometimes not all of a characters textures will appear in FModel
+- For instance, if you go to Spiderman `Content\Marvel\Characters\1036\1036001\Texture`
+- You will see a `44` on the Texture folder, but nothing inside except 1 more folder
+- In order to see his textures, you have to right click that Texture folder and `Save Folders Packages Textures`
+- This will throw everything into your Output folder as pngs
+- There's several other characters that have this issue, so if something looks missing, try doing this
+
+---
 ## Replacing Textures
 
 ### Steps to Extract and Replace Textures
