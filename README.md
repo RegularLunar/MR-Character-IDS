@@ -54,6 +54,7 @@
   - **1050**: Invisible Woman
 </details>
 
+<details>
 <summary>Season 2</summary>
 
   - **1053**: Emma Frost
