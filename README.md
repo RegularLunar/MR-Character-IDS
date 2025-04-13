@@ -41,6 +41,7 @@
   - **1050**: Invisible Woman
   - **1051**: The Thing
   - **1052**: Iron Fist
+  - **1053**: Emma Frost
   - **4017**: Galacta
 </details>
 
@@ -53,3 +54,7 @@
   - **1050**: Invisible Woman
 </details>
 
+<summary>Season 2</summary>
+
+  - **1053**: Emma Frost
+</details>
