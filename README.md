@@ -69,4 +69,5 @@
 <summary>Season 2</summary>
 
   - **1053**: Emma Frost
+  - **1028**: Ultron
 </details>
