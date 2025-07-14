@@ -71,6 +71,8 @@
   - **1053**: Emma Frost
   - **1028**: Ultron
 </details>
+
+<details>
 <summary>Season 3</summary>
 
   - **1054**: Phoenix
