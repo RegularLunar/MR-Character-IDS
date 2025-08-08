@@ -76,4 +76,5 @@
 <summary>Season 3</summary>
 
   - **1054**: Phoenix
+  - **1044**: Blade
 </details>
