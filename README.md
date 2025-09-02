@@ -59,7 +59,6 @@
   - **1069**: White Fox
   - **1070**: Forge
   - **1071**: Amaranth
-  
   - **4011**: Spider Zero
   - **4012**: Master Weaver
   - **4016**: Galacta Bot
