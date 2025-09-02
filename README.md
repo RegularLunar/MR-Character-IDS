@@ -44,16 +44,28 @@
   - **1052**: Iron Fist
   - **1053**: Emma Frost
   - **1054**: Phoenix
+  - **1057**: Professor X 
+  - **1058**: Jia Jing 
+  - **1059**: Trapster / Paste-Pot Pete 
+  - **1060**: Colossus 
+  - **1061**: Locus 
+  - **1062**: Beast
+  - **1063**: Nightcrawler 
+  - **1064**: Jubilee
+  - **1065**: Rogue 
+  - **1066**: Gambit 
   - **1067**: Armor
   - **1068**: Hive
   - **1069**: White Fox
   - **1070**: Forge
   - **1071**: Amaranth
+  
   - **4011**: Spider Zero
   - **4012**: Master Weaver
   - **4016**: Galacta Bot
   - **4017**: Galacta
   - **4018**: Galacta Bot (Large)
+  - **4019**: Ultron Drone
 </details>
 
 <details>
