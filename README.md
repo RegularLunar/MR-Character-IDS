@@ -1,3 +1,4 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/regularlunar/MR-Character-IDS)
 
 ### Character ID List
 <details>
