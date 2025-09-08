@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/regularlunar/MR-Character-IDS)
+![GitHub last commit](https://img.shields.io/github/last-commit/regularlunar/MR-Character-IDS?style=flat-square&logoColor=violet&logoSize=48&label=LAST%20UPDATED%3A&labelColor=212121&color=8000ff&link=https%3A%2F%2Fgithub.com%2FRegularLunar%2FMR-Character-IDS%2Fcommits%2Fmain%2F)
 
 ### Character ID List
 <details>
