@@ -45,6 +45,8 @@
   - **1052**: Iron Fist
   - **1053**: Emma Frost
   - **1054**: Phoenix
+  - **1055**: Angela
+  - **1056**: Daredevil
   - **1057**: Professor X 
   - **1058**: Jia Jing 
   - **1059**: Trapster / Paste-Pot Pete 
@@ -89,4 +91,11 @@
 
   - **1054**: Phoenix
   - **1044**: Blade
+</details>
+
+<details>
+<summary>Season 4</summary>
+
+  - **1055**: Angela
+  - **1056**: Daredevil
 </details>
