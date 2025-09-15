@@ -48,15 +48,14 @@
   - **1055**: Angela
   - **1056**: Daredevil
   - **1057**: Professor X 
-  - **1058**: Jia Jing 
-  - **1059**: Trapster / Paste-Pot Pete 
+  - **1058**: Gambit 
+  - **1059**: Elsa Bloodstone 
   - **1060**: Colossus 
   - **1061**: Locus 
   - **1062**: Beast
   - **1063**: Nightcrawler 
   - **1064**: Jubilee
   - **1065**: Rogue 
-  - **1066**: Gambit 
   - **1067**: Armor
   - **1068**: Hive
   - **1069**: White Fox
