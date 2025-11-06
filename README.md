@@ -67,6 +67,18 @@
   - **4017**: Galacta
   - **4018**: Galacta Bot (Large)
   - **4019**: Ultron Drone
+  - **8021**: Loki Ghost
+  - **8031**: Spider Zero And Master Weaver
+  - **8032**: Train NPCs
+  - **8041**: Shuri
+  - **8042**: Bast And NPCs
+  - **8043**: Kliluna
+  - **8052**: AllBlack
+  - **8053**: Knull
+  - **8061**: Herbie
+  - **8062**: Ratoto Skr
+  - **8063**: Bats
+  - **8072**: Hydra NPCs
 </details>
 
 <details>
