@@ -79,8 +79,6 @@
     - **1056**: Daredevil
     </details>
 
-</details>
-
   - <details>
     <summary>Season 5</summary>
     
