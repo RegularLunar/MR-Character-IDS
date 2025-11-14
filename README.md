@@ -81,6 +81,15 @@
 
 </details>
 
+  - <details>
+    <summary>Season 5</summary>
+    
+    - **1058**: Gambit
+    - **1065**: Rogue
+    </details>
+
+</details>
+
 <details>
   <summary>NPCs</summary>
 
@@ -107,15 +116,13 @@
 <details>
   <summary>Unreleased Characters</summary>
 
-  - **1057**: Professor X 
-  - **1058**: Gambit 
+  - **1057**: Professor X  
   - **1059**: Elsa Bloodstone 
   - **1060**: Colossus 
   - **1061**: Locus 
   - **1062**: Beast
   - **1063**: Nightcrawler 
-  - **1064**: Jubilee
-  - **1065**: Rogue 
+  - **1064**: Jubilee 
   - **1067**: Armor
   - **1068**: Hive
   - **1069**: White Fox
