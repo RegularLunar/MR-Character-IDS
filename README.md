@@ -85,6 +85,13 @@
     - **1058**: Gambit
     - **1065**: Rogue
     </details>
+    
+  - <details>
+    <summary>Season 6</summary>
+    
+    - **1057**: Deadpool
+    - **1059**: Elsa Bloodstone 
+    </details>
 
 </details>
 
@@ -114,8 +121,7 @@
 <details>
   <summary>Unreleased Characters</summary>
 
-  - **1057**: Professor X  
-  - **1059**: Elsa Bloodstone 
+  - **????**: Professor X
   - **1060**: Colossus 
   - **1061**: Locus 
   - **1062**: Beast
