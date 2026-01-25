@@ -110,7 +110,9 @@
     |-----------|----------------|
     | 1057 | Deadpool |
     | 1059 | Elsa Bloodstone |
-
+    
+    > **Note:** Elsa Bloodstone is not released yet (99% sure she's next).
+    
     </details>
 
 </details>
