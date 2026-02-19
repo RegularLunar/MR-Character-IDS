@@ -1,7 +1,7 @@
 ### This is a complete list of all character IDs in Marvel Rivals, including playable characters, NPCs, and unreleased characters.
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/regularlunar/MR-Character-IDS?style=flat-square&logoColor=violet&logoSize=48&label=LAST%20UPDATED%3A&labelColor=212121&color=8000ff" />
+  <img src="https://img.shields.io/github/last-commit/regularlunar/MR-Character-IDS?style=for-the-badge&color=%23916cd9" />
 </p>
 
 ---
